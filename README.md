@@ -42,7 +42,7 @@ NEVER CALL "SHOTGUN Microphone"
 ###How to Make:
    
 
-####Instruction  
+####1. Instruction  
   
 ######[NCS Microphone](http://fabble.cc/yosukesakai/ncs-microphone) (Fabble)    
 Regular version.  
@@ -54,7 +54,7 @@ This is a variation of using a smartphone headset which is available in market, 
 You can make it **WITHOUT ANY SOLDERING** and use it as regular external microphone of smartphone.
 ![NCS Microphone 100Y](pics/NCS_Microphone100Y_2.jpg)  
  
-####STL file
+####2. STL file
 
 STL file for body parts (tube part, bottom part, cable stopper) and microphone holder
 
@@ -63,7 +63,7 @@ STL file for body parts (tube part, bottom part, cable stopper) and microphone h
 
 ###Sound Sample:  
 #####*Bishanohana* (fieldrecording)  
-recorded with NCS Microphone (100 yen smartphone headset ver.) + iPhone  
+[recorded with NCS Microphone (100 yen smartphone headset ver.) + iPhone](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272745045&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false)  
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272745045&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
