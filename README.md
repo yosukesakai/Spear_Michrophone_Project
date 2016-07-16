@@ -8,7 +8,7 @@ Self-Build Microphone Project Series,
 - to grow one's environment recognition some richer and ENJOY IT!  
 
 Each project is OPEN SHARED as open source hardware.  
-See details on the website of each content.  
+See details and licenses on the website of each content.  
 Looking foward to see your feedback!!  
 
 ##1. Spear Microphone
