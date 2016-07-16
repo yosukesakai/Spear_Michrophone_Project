@@ -41,24 +41,22 @@ NEVER CALL "SHOTGUN Microphone"
 
 ###How to Make:
    
-
-####1. Instruction  
   
-######[NCS Microphone](http://fabble.cc/yosukesakai/ncs-microphone) (Fabble)    
+####Instruction A: [NCS Microphone](http://fabble.cc/yosukesakai/ncs-microphone) (Fabble)    
 Regular version.  
 Print model parts with 3D printer and get some parts  in market, then build it.  
 ![NCS Microphone](pics/NCSMicrophone3.jpg)  
 
-######[NCS Microphone (100 yen smartphone headset ver.)](http://fabble.cc/yosukesakai/ncs-microphone-100yen-smartphone-headset-ver) (Fabble)  
+####Instruction B: [NCS Microphone (100 yen smartphone headset ver.)](http://fabble.cc/yosukesakai/ncs-microphone-100yen-smartphone-headset-ver) (Fabble)  
 This is a variation of using a smartphone headset which is available in market, assembling 3d printed parts which are same as regular version.  
 You can make it **WITHOUT ANY SOLDERING** and use it as regular external microphone of smartphone.
 ![NCS Microphone 100Y](pics/NCS_Microphone100Y_2.jpg)  
  
-####2. STL file
+####STL file: [NCS Microphone](http://www.thingiverse.com/thing:1666150) (Thingiverse)  
 
-STL file for body parts (tube part, bottom part, cable stopper) and microphone holder
+STL file for body parts (tube part, bottom part, cable stopper) and optional parts.
 
-######[NCS Microphone](http://www.thingiverse.com/thing:1666150) (Thingiverse)  
+
 
 
 ###Sound Sample:  
