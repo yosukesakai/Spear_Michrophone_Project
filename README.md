@@ -1,7 +1,5 @@
 #Spear Microphone Project
 
---
-
 
 
 ###Goal:  
@@ -16,10 +14,9 @@ So it is produced not "Shotgun microphone" but "**Spear Microphone**".
 ###How to Make:  
 under construction..  
 
-![NCS Microphone](pics/Spear_Mic_Printing.jpg) 
-![NCS Microphone](pics/Spear_Mic_End_Printing.jpg) 
-![NCS Microphone](pics/Spear_Mic_Holer_Printing.jpg)  
-
+<img src="pics/Spear_Mic_Printing.jpg" width="500">  
+<img src="pics/Spear_Mic_End_Printing.jpg" width="500">  
+<img src="pics/Spear_Mic_Holer_Printing.jpg" width="500">  
 
 ###Sound Sample:    
 
