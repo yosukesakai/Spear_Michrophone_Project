@@ -35,7 +35,7 @@ Looking foward to see your feedback!!
 
 Related projects  
 
-[NCS Microphone Project](https://github.com/yosukesakai/Spear_Michrophone_Project)  
+[NCS Microphone Project](https://github.com/yosukesakai/NCS_Microphone_Project)  
 [Spear Microphone Project](https://github.com/yosukesakai/Spear_Michrophone_Project) (this project)    
 
 next project is coming soon..
